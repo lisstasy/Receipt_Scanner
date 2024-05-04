@@ -1,6 +1,6 @@
 # Receipt Data Extraction, Parsing, and Expenses Analysis Project
 
-This project highlights expertise in developing a comprehensive system for receipt data extraction, parsing, and expenses analysis using advanced technologies. Here's a breakdown of the key components and technologies involved:
+In this project, I developed a comprehensive system for receipt data extraction, parsing, and expense analysis using LLMs capabilities. Here's a breakdown of the key components and technologies involved:
 
 ## 1. Optical Character Recognition (OCR) with PaddleOCR:
 - Utilized computer vision techniques and the PaddleOCR library for efficient text extraction from receipt images.
