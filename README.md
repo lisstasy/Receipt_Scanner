@@ -2,7 +2,7 @@
 
 In this project, I developed a comprehensive system for receipt data extraction, parsing, and expense analysis using LLM capabilities. 
 
-##Hosted Application
+## Hosted Application
 The application is hosted on Hugging Face Hub and can be tested there. Simply upload your OpenAI API key and photos of receipts. You can access the app using the following link: [Receipt Scanner on Hugging Face](https://huggingface.co/spaces/lisstasy/receipt_scanner)
 
 Below is a breakdown of the key files and components:
@@ -32,7 +32,7 @@ Below is a breakdown of the key files and components:
 ### 4. Interactive Visualization Dashboards with Plotly:
 - Developed interactive visualization dashboards using Plotly for charting.
 - Enabled users to explore and analyze expense trends, category-wise spending, and budget tracking in a user-friendly interface.
-- 
+  
 ### 5. Interactive Web Interface with Gradio
 - Implemented features for users to upload multiple receipts, edit, and confirm receipt data, enhancing usability and accuracy.
 - Developed the Gradio app interface to facilitate easy user interaction.
